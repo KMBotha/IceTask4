@@ -33,8 +33,8 @@
             lblPassword = new Label();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
-            button1 = new Button();
-            button3 = new Button();
+            btnLoginUser = new Button();
+            btnForgot = new Button();
             SuspendLayout();
             // 
             // lblLoginForm
@@ -84,23 +84,25 @@
             textBox2.Size = new Size(280, 23);
             textBox2.TabIndex = 5;
             // 
-            // button1
+            // btnLoginUser
             // 
-            button1.Location = new Point(145, 119);
-            button1.Name = "button1";
-            button1.Size = new Size(132, 23);
-            button1.TabIndex = 6;
-            button1.Text = "Login";
-            button1.UseVisualStyleBackColor = true;
+            btnLoginUser.Location = new Point(145, 119);
+            btnLoginUser.Name = "btnLoginUser";
+            btnLoginUser.Size = new Size(132, 23);
+            btnLoginUser.TabIndex = 6;
+            btnLoginUser.Text = "Login";
+            btnLoginUser.UseVisualStyleBackColor = true;
+            btnLoginUser.Click += btnLoginUser_Click;
             // 
-            // button3
+            // btnForgot
             // 
-            button3.Location = new Point(293, 119);
-            button3.Name = "button3";
-            button3.Size = new Size(132, 23);
-            button3.TabIndex = 7;
-            button3.Text = "Forgot Password";
-            button3.UseVisualStyleBackColor = true;
+            btnForgot.Location = new Point(293, 119);
+            btnForgot.Name = "btnForgot";
+            btnForgot.Size = new Size(132, 23);
+            btnForgot.TabIndex = 7;
+            btnForgot.Text = "Forgot Password";
+            btnForgot.UseVisualStyleBackColor = true;
+            btnForgot.Click += btnForgot_Click;
             // 
             // frmLogin
             // 
@@ -108,8 +110,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(236, 167, 44);
             ClientSize = new Size(526, 154);
-            Controls.Add(button3);
-            Controls.Add(button1);
+            Controls.Add(btnForgot);
+            Controls.Add(btnLoginUser);
             Controls.Add(textBox2);
             Controls.Add(textBox1);
             Controls.Add(lblPassword);
@@ -117,6 +119,7 @@
             Controls.Add(lblLoginForm);
             Name = "frmLogin";
             Text = "...";
+            Load += frmLogin_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -131,5 +134,7 @@
         private Button button1;
         private Button button2;
         private Button button3;
+        private Button btnLoginUser;
+        private Button btnForgot;
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjIceTask4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d518d4878a8de58771ae95b5f8a01c184e34a20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43631fc8e0e33c64b3038ec740286c6564d4c458")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjIceTask4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjIceTask4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -44,7 +44,7 @@
             lblForgotPassword.Size = new Size(223, 27);
             lblForgotPassword.TabIndex = 2;
             lblForgotPassword.Text = "Forgot Password";
-            lblForgotPassword.Click += this.lblWelcom_Click;
+            lblForgotPassword.Click += lblWelcom_Click;
             // 
             // textBox1
             // 

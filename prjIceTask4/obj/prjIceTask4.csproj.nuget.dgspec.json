@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kelly\\source\\repos\\prjIceTask4\\prjIceTask4\\prjIceTask4.csproj": {}
+    "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\prjIceTask4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kelly\\source\\repos\\prjIceTask4\\prjIceTask4\\prjIceTask4.csproj": {
+    "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\prjIceTask4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kelly\\source\\repos\\prjIceTask4\\prjIceTask4\\prjIceTask4.csproj",
+        "projectUniqueName": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\prjIceTask4.csproj",
         "projectName": "prjIceTask4",
-        "projectPath": "C:\\Users\\kelly\\source\\repos\\prjIceTask4\\prjIceTask4\\prjIceTask4.csproj",
+        "projectPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\prjIceTask4.csproj",
         "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kelly\\source\\repos\\prjIceTask4\\prjIceTask4\\obj\\",
+        "outputPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kelly\\AppData\\Roaming\\NuGet\\NuGet.Config",
