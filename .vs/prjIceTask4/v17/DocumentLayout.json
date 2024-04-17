@@ -1,6 +1,5 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\",
   "Documents": [
     {
@@ -26,37 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjicetask4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-=======
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\forgot password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\forgot password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|c:\\users\\lab_services_student\\source\\repos\\icetask4\\prjicetask4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3AC43F64-4906-4BA3-A2DA-73F6995E9EF7}|prjIceTask4\\prjIceTask4.csproj|solutionrelative:prjicetask4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -66,53 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
           "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-=======
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Menu.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Menu.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Menu.cs",
-              "RelativeToolTip": "prjIceTask4\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T13:06:16.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Dashboard.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Dashboard.cs [Design]",
-              "RelativeToolTip": "prjIceTask4\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:50:07.92Z",
-              "EditorCaption": " [Design]"
->>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-<<<<<<< Updated upstream
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\Login.cs",
               "RelativeDocumentMoniker": "prjIceTask4\\Login.cs",
@@ -122,22 +52,11 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T13:31:40.747Z",
               "EditorCaption": ""
-=======
-              "Title": "Forgot Password.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Forgot Password.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Forgot Password.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Forgot Password.cs [Design]",
-              "RelativeToolTip": "prjIceTask4\\Forgot Password.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:50:06.311Z",
-              "EditorCaption": " [Design]"
->>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
-<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\Login.cs",
               "RelativeDocumentMoniker": "prjIceTask4\\Login.cs",
               "ToolTip": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\Login.cs [Design]",
@@ -168,20 +87,11 @@
               "RelativeToolTip": "prjIceTask4\\Forgot Password.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T12:30:56.366Z",
-=======
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Login.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Login.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Login.cs [Design]",
-              "RelativeToolTip": "prjIceTask4\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:50:02.672Z",
->>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< Updated upstream
               "Title": "First.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\First.cs",
               "RelativeDocumentMoniker": "prjIceTask4\\First.cs",
@@ -189,20 +99,10 @@
               "RelativeToolTip": "prjIceTask4\\First.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T12:30:54.651Z",
-=======
-              "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Menu.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Menu.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Menu.cs [Design]",
-              "RelativeToolTip": "prjIceTask4\\Menu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:50:00.623Z",
->>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
               "DocumentIndex": 0,
               "Title": "Registration.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\Registration.cs",
@@ -211,29 +111,6 @@
               "RelativeToolTip": "prjIceTask4\\Registration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T12:30:50.116Z",
-=======
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Program.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Program.cs",
-              "RelativeToolTip": "prjIceTask4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:49:58.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Registration.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Registration.cs",
-              "RelativeDocumentMoniker": "prjIceTask4\\Registration.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\Registration.cs [Design]",
-              "RelativeToolTip": "prjIceTask4\\Registration.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T12:40:22.358Z",
->>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             }
           ]
