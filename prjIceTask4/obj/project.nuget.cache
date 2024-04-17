@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "0Qf6IarQlmllmd6d5t0FJdPWA1/p2LAyVr0fvypXvfAYVrAErOuGlL5NeZp43cyu58EMVYulU7sVywUEaqYRvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kelly\\OneDrive\\Desktop\\IceTask4\\prjIceTask4\\prjIceTask4.csproj",
+=======
+  "dgSpecHash": "Uf8Z3f2f/KT1tlngwsUwXsn4G0fDRRHvQ5tF6iSYraBrPav+iGF9V1/zfmAMr3DpUpR/YJgFT5SWm7Jbhow6vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\IceTask4\\prjIceTask4\\prjIceTask4.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }

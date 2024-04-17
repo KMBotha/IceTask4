@@ -17,6 +17,7 @@ C:\Users\kelly\source\repos\prjIceTask4\prjIceTask4\obj\Debug\net8.0-windows\prj
 C:\Users\kelly\source\repos\prjIceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.genruntimeconfig.cache
 C:\Users\kelly\source\repos\prjIceTask4\prjIceTask4\obj\Debug\net8.0-windows\ref\prjIceTask4.dll
 C:\Users\kelly\source\repos\prjIceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.frmForgotPassword.resources
+<<<<<<< Updated upstream
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.exe
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.deps.json
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.runtimeconfig.json
@@ -38,3 +39,26 @@ C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\pr
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.genruntimeconfig.cache
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\ref\prjIceTask4.dll
 C:\Users\kelly\OneDrive\Desktop\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.frmMenu.resources
+=======
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.exe
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.deps.json
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.dll
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\bin\Debug\net8.0-windows\prjIceTask4.pdb
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.Dashboard.resources
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.frmForgotPassword.resources
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.frmLogin.resources
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.Menu.resources
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.Registration.resources
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.sourcelink.json
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.dll
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\refint\prjIceTask4.dll
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.pdb
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\prjIceTask4.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\IceTask4\prjIceTask4\obj\Debug\net8.0-windows\ref\prjIceTask4.dll
+>>>>>>> Stashed changes
